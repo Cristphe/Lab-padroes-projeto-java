@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7f51fde-6482-458b-be28-3c666a6018fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/main/java/dio/spring/security/DioSpringSecurityApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/test/java/dio/spring/security/DioSpringSecurityApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/compu/OneDrive/Área de Trabalho/DIO/Lab-padroes-projeto-java",
+    "last_opened_file_path": "C:/Users/compu/OneDrive/Área de Trabalho/DIO/padroes-spring",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,6 +98,7 @@
       <updated>1709680933062</updated>
       <workItem from="1709680934168" duration="4745000" />
       <workItem from="1709685735445" duration="234000" />
+      <workItem from="1709685995474" duration="176000" />
     </task>
     <servers />
   </component>
