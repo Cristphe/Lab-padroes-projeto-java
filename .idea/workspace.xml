@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7f51fde-6482-458b-be28-3c666a6018fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/facade/Facede.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonEager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonLazy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonLazyHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/Comportamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoAgressivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoDefensivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoNormal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/Robo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subsistema1/crm/CrmService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subsistema2/cep/CepAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/main/java/dio/spring/security/DioSpringSecurityApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/test/java/dio/spring/security/DioSpringSecurityApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/main/java/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dI1leVMs304T3oekLtWofRsLpS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -63,15 +42,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/compu/OneDrive/Área de Trabalho/DIO/Lab-padroes-projeto-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/compu/OneDrive/Área de Trabalho/DIO/Lab-padroes-projeto-java/src/Main.java",
+    "settings.editor.selected.configurable": "project.scopes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\compu\OneDrive\Área de Trabalho\DIO\Lab-padroes-projeto-java\demo1\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="one.digitalinnovation.gof.strategy" />
       <recent name="one.digitalinnovation.gof" />
@@ -105,7 +89,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709680933062</updated>
-      <workItem from="1709680934168" duration="4387000" />
+      <workItem from="1709680934168" duration="4745000" />
+      <workItem from="1709685735445" duration="234000" />
     </task>
     <servers />
   </component>
