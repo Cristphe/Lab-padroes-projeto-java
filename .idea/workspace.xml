@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7f51fde-6482-458b-be28-3c666a6018fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/facade/Facede.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonEager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonLazy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonLazyHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/Comportamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoAgressivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoDefensivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoNormal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/Robo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subsistema1/crm/CrmService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subsistema2/cep/CepAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/main/java/dio/spring/security/DioSpringSecurityApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-spring-security/src/test/java/dio/spring/security/DioSpringSecurityApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2dI1leVMs304T3oekLtWofRsLpS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/compu/OneDrive/Área de Trabalho/DIO/Lab-padroes-projeto-java/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="one.digitalinnovation.gof.strategy" />
+      <recent name="one.digitalinnovation.gof" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.gof.Test" />
+      <module name="Lab-padroes-projeto-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.gof.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7f51fde-6482-458b-be28-3c666a6018fa" name="Changes" comment="" />
+      <created>1709680933062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709680933062</updated>
+      <workItem from="1709680934168" duration="4387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
